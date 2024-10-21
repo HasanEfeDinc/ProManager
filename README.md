@@ -1,8 +1,11 @@
 # ProManager
 Copy of SE-322 Course Project in Izmir Univercity Of Economics
-Collaburators: Hasan Efe Dinç
-               Doğan Süle
-               Enes Burak Özdemir
-               Arda Şenyüz
+Contributors: 
+Hasan Efe Dinç
+Doğan Süle
+Enes Burak Özdemir
+Arda Şenyüz
+              
+     
                
                 
