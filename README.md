@@ -1,5 +1,5 @@
 # ProManager
-Copy of SE-322 Course Project in Izmir Univercity Of Economics
+Copy of SE-322 Course Project in Izmir University Of Economics
 Contributors: 
 Hasan Efe Dinç -
 Doğan Süle -   
